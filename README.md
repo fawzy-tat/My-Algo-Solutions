@@ -19,7 +19,7 @@ Algorithm to use: Depth-First Search
 
 # ----------
 
-# 1 - Reverse a string ( simple )
+# 2 - Reverse a string ( simple )
 
 Problem statement: Write a siple function that takes a string and returns a reversed string
 
